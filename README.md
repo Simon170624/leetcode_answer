@@ -1,2 +1,4 @@
 # leetcode_answer
-string - easy
+String - easy
+
+Linked list - easy \& medium 
