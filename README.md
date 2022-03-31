@@ -2,3 +2,5 @@
 String - easy
 
 Linked list - easy \& medium 
+
+DFS - easy
