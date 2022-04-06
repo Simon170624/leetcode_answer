@@ -1,6 +1,6 @@
 # leetcode_answer
-String - easy
+String
 
-Linked list - easy \& medium 
+Linked list 
 
-DFS - easy
+DFS
