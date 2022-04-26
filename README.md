@@ -5,4 +5,4 @@ Linked list
 
 DFS
 
-Top Interview Questions 1 - 20
+Top Interview Questions 1 - 20 except hard problems
