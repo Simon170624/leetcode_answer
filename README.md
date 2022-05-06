@@ -1,5 +1,5 @@
 # leetcode_answer
-String
+Arrays & String
 
 Linked list 
 
@@ -8,3 +8,9 @@ DFS
 BFS
 
 Two Pointers
+
+Binary Search
+
+Recursion
+
+Dynamic Programming
