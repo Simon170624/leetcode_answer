@@ -1,18 +1,9 @@
-# leetcode_answer
-Arrays & String
+# Leetcode Answers
 
-Linked list 
+# Data Structure
 
-DFS
+Arrays & List; Linked list; Dictionary; Queue; Stack; Binary Tree
 
-BFS
+# Algorithms
 
-Two Pointers
-
-Binary Search
-
-Recursion
-
-Dynamic Programming
-
-Sliding Windows
+DFS; BFS; Two Pointers; Binary Search; Recursion; Dynamic Programming; Sliding Windows
